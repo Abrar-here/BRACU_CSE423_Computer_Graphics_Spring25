@@ -8,4 +8,6 @@ CSE423-Computer Graphics Lab Assignments and Projects
   <li>Midpoint Line Drawing Algorithm</li>
   <li>Midpoint Circle Drawing Algorithm</li>
   <li>8-way Symmetry</li>
+  <li>Transformation-Translation,Rotation,Scaling</li>
+  <li>Projection</li>
 </ul>
